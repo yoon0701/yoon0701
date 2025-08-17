@@ -1,6 +1,6 @@
 <!-- 헤더 -->
 <h1 align="center">Hi, I'm Yoonji Choi 👋</h1>
-<p align="center">Undergraduate Student @ Ewha University </p>
+<p align="center">Undergraduate Student @ Ewha Womans University </p>
 
 ---
 
