@@ -6,4 +6,4 @@
 
 ### 📌 About me
 - 🎓 이화여자대학교 컴퓨터공학 전공
-- 💻 Python, Java, C# 
+- 💻 Python, Java
